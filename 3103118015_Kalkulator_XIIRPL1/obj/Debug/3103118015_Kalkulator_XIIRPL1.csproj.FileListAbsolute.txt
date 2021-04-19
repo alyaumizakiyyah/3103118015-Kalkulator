@@ -1,0 +1,9 @@
+C:\Users\asus\source\repos\3103118015_Kalkulator_XIIRPL1\3103118015_Kalkulator_XIIRPL1\bin\Debug\3103118015_Kalkulator_XIIRPL1.exe.config
+C:\Users\asus\source\repos\3103118015_Kalkulator_XIIRPL1\3103118015_Kalkulator_XIIRPL1\bin\Debug\3103118015_Kalkulator_XIIRPL1.exe
+C:\Users\asus\source\repos\3103118015_Kalkulator_XIIRPL1\3103118015_Kalkulator_XIIRPL1\bin\Debug\3103118015_Kalkulator_XIIRPL1.pdb
+C:\Users\asus\source\repos\3103118015_Kalkulator_XIIRPL1\3103118015_Kalkulator_XIIRPL1\obj\Debug\3103118015_Kalkulator_XIIRPL1.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\3103118015_Kalkulator_XIIRPL1\3103118015_Kalkulator_XIIRPL1\obj\Debug\_3103118015_Kalkulator_XIIRPL1.Form1.resources
+C:\Users\asus\source\repos\3103118015_Kalkulator_XIIRPL1\3103118015_Kalkulator_XIIRPL1\obj\Debug\_3103118015_Kalkulator_XIIRPL1.Properties.Resources.resources
+C:\Users\asus\source\repos\3103118015_Kalkulator_XIIRPL1\3103118015_Kalkulator_XIIRPL1\obj\Debug\3103118015_Kalkulator_XIIRPL1.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\3103118015_Kalkulator_XIIRPL1\3103118015_Kalkulator_XIIRPL1\obj\Debug\3103118015_Kalkulator_XIIRPL1.exe
+C:\Users\asus\source\repos\3103118015_Kalkulator_XIIRPL1\3103118015_Kalkulator_XIIRPL1\obj\Debug\3103118015_Kalkulator_XIIRPL1.pdb
